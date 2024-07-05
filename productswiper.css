@@ -274,3 +274,15 @@ body #green05_67122 .banArea{
     width: 1201px;
     height: 498px;
 }
+
+.box_banArea.configBox{
+    display : none;
+    }
+    
+#green05_67128 {
+    width: auto !important;
+}
+    
+body #green05_67128 .banArea{
+    width: auto !important;
+}
