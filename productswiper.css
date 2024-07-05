@@ -135,6 +135,6 @@ ul, li, p, h1, h2, h3, h4{
 display : none;
   }
 
-  #green05_67089 {
-    width: auto;
-  }
+#green05_67089 {
+   width: auto !important;
+}
