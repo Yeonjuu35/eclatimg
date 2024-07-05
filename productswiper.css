@@ -207,3 +207,16 @@ h3{
 .third_info_spacing{
     padding-left: 70px;
 }
+
+
+.box_banArea.configBox{
+    display : none;
+    }
+    
+#green05_67122 {
+    width: auto !important;
+}
+    
+body #green05_67122 .banArea{
+    width: auto !important;
+}
