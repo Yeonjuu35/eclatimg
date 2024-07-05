@@ -220,3 +220,57 @@ h3{
 body #green05_67122 .banArea{
     width: auto !important;
 }
+
+/* 추천 상품 */
+.container_y{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0;
+}
+.Ti_blank{
+    margin-bottom:40px;
+}
+.Ist_blank{
+    margin-bottom:20px
+}
+.St_pri_blank{
+    margin-bottom:4px;
+}      
+
+.d-flex{
+    display: flex;
+}
+.jsb{
+    justify-content: space-between;
+}
+.aic{
+    align-items: center;
+}
+.bs{
+    width:278px;
+    height: 325px;
+}
+.bg1{
+    background:url(./img/Mask\ group-1.jpg);
+    width:278px;
+    height: 325px;
+}
+.bg2{
+    background:url(./img/Mask\ group-2.jpg);
+    width:278px;
+    height: 325px;
+}
+.bg3{
+    background:url(./img/Mask\ group-3.jpg);
+    width:278px;
+    height: 325px;
+}
+.bg4{
+    background:url(./img/Mask\ group-4.jpg);
+    width:278px;
+    height: 325px;
+}
+.Ercm{
+    width: 1201px;
+    height: 498px;
+}
