@@ -122,3 +122,15 @@ ul, li, p, h1, h2, h3, h4{
     max-width: 46%;
     transform: translate(16%, 3%);
 }
+
+  /* 상단광고배너, 풋터 */
+  #header06 > div:nth-child(1),
+  #footer_sample02 #footer,
+  body #footer_sample02 #footer,
+  #footer_sample02 .pvuse_wrap{
+  background-color : #313131 !important;
+  }
+  
+.box_ banArea.configBox{
+display : none;
+  }
