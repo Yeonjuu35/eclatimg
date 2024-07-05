@@ -1,7 +1,7 @@
 /* 타이틀 텍스트 (에클라 추천, 베스트 상품, 시즌추천, 이벤트, 리뷰,) */
 .title_text{
 color: #2B2B2B;
-font-family: Pretendard;
+font-family: 'Pretendard';
 font-size: 30px;
 font-style: normal;
 font-weight: 700;
@@ -11,7 +11,7 @@ line-height: normal;
 /* 에클라 추천 서브텍스트 */
 .sub_text20{
  color: #333;
- font-family: Pretendard;
+ font-family: 'Pretendard';
  font-size: 20px;
  font-style: normal;
  font-weight: 300;
@@ -22,7 +22,7 @@ line-height: normal;
 /* 베스트/리뷰 상품명 */
 .proNm_text{
  color: #333;
- font-family: Pretendard;
+ font-family: 'Pretendard';
  font-size: 35px;
  font-style: normal;
  font-weight: 600;
@@ -33,7 +33,7 @@ line-height: normal;
 /* 가격 텍스트 */
 .pri_text{
 color: #181818;
-font-family: "PT Sans";
+font-family: 'Pretendard';
 font-size: 25px;
 font-style: normal;
 font-weight: 400;
@@ -44,7 +44,7 @@ letter-spacing: 0.25px;
 /* 더보기 텍스트 */
 .sm_text{
 color: #333;
-font-family: Pretendard;
+font-family: 'Pretendard';
 font-size: 16px;
 font-style: normal;
 font-weight: 100;
@@ -61,8 +61,8 @@ border : 0;
 }
 
 body .bBox_text{
-color: #FFF;
-font-family: Pretendard;
+color: #FFF !important;
+font-family: 'Pretendard' !important;
 font-size: 18px;
 font-style: normal;
 font-weight: 500;
