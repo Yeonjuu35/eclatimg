@@ -122,15 +122,6 @@ ul, li, p, h1, h2, h3, h4{
     max-width: 46%;
     transform: translate(16%, 3%);
 }
-
-/* 상단광고배너, 풋터 */
-#header06 > div:nth-child(1),
-#footer_sample02 #footer,
-body #footer_sample02 #footer,
-#footer_sample02 .pvuse_wrap{
-  background-color : #313131 !important;
-}
-  
 .box_banArea.configBox{
 display : none;
 }
@@ -141,4 +132,78 @@ display : none;
 
 body #green05_67089 .banArea{
     width: auto !important;
+}
+
+/* 상단광고배너, 풋터 */
+#header06 > div:nth-child(1),
+#footer_sample02 #footer,
+body #footer_sample02 #footer,
+#footer_sample02 .pvuse_wrap{
+  background-color : #313131 !important;
+}
+
+/* 추천 이벤트 리뷰 */
+.container_g {
+    width: 1200px;
+    margin: 0 auto;
+    font-family: 'Pretendard', sans-serif; /* 전체 폰트 설정 */
+}
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: #333333;
+}
+h3{
+    margin-bottom: 0;
+}
+.allsamediv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+    margin-top: 300px;
+}
+.firstimg {
+    width: 382px;
+    height: 270px;
+    margin-bottom: 20px;
+}
+.secondimg {
+    width: 100%; /* 이미지 가로 길이 조정 */
+    height: auto; /* 이미지 세로 비율 유지 */
+}
+.thirdimg {
+    width: 100%; /* 이미지 가로 길이 조정 */
+    height: auto; /* 이미지 세로 비율 유지 */
+}
+.titlespacing {
+    margin-top: 300px; /* 위쪽 여백 조정 */
+}
+.lispacing {
+    margin-bottom: 0;
+    padding: 0;
+}
+.third_title_spacing {
+    margin-bottom: 20px;
+}
+.third_subtitle_spacing {
+    margin-bottom: 38px;
+}
+.btn {
+    width: 120px;
+    height: 40px;
+    background-color: #3F3B3A;
+    border-radius: 0;
+    color: #FFF;
+    margin-top: 20px; /* 버튼 위쪽 여백 조정 */
+}
+.btn:hover {
+    background-color: #3F3B3A;
+    border-radius: 0;
+    color: #FFF;
+}
+.third_info_spacing{
+    padding-left: 70px;
 }
