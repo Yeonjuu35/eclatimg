@@ -95,7 +95,6 @@ ul, li, p, h1, h2, h3, h4{
 }
 .productguide.active-0:before{
     background-color: rgba(228, 245, 220, 0.7);
-
 }
 .productguide.active-1:before{
     background-color: rgba(213, 237, 249, 0.7);
@@ -103,6 +102,9 @@ ul, li, p, h1, h2, h3, h4{
 }
 .productguide.active-2:before{
     background-color: rgba(249, 239, 217, 0.7);
+}
+.productguide.active-3:before{
+    background-color: rgba(236, 236, 240, 0.7);
 }
 
 .titleblank{
