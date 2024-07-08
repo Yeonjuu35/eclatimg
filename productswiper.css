@@ -134,6 +134,32 @@ body #green05_67089 .banArea{
     width: auto !important;
 }
 
+/* 리뷰 */
+body .Reviewtitle{
+    max-width: 1200px !important;
+    height: auto;
+}
+.ReviewBlank{
+    margin-bottom: 40px;
+}
+.ReviewContainer{
+    max-width: 1200px;
+    height: auto;
+    overflow: hidden;
+}
+.Reviewp70{
+    padding-right: 70px;
+}
+.Reviewtext20{
+    padding-bottom: 20px;
+}
+.Reviewtext40{
+    padding-bottom: 40px;
+}
+.reviewImg{
+    max-width: 590px;
+}
+
 /* 상단광고배너, 풋터 */
 #header06 > div:nth-child(1),
 #footer_sample02 #footer,
