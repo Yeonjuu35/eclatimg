@@ -159,6 +159,13 @@ body .Reviewtitle{
 .reviewImg{
     max-width: 590px;
 }
+#green05_67253 {
+    width: auto !important;
+}
+
+body #green05_67253 .banArea{
+    width: auto !important;
+}
 
 /* 상단광고배너, 풋터 */
 #header06 > div:nth-child(1),
