@@ -136,7 +136,7 @@ body #green05_67089 .banArea{
     width: auto !important;
 }
 
-/* 리뷰 */
+/* 리뷰 커스텀 스타일 */
 body .Reviewtitle{
     max-width: 1200px !important;
     height: auto;
@@ -180,6 +180,10 @@ body #green05_67253 .banArea{
     font-weight: 500;
     line-height: normal;
     letter-spacing: 0.25px;
+}
+
+.wordbreak{
+    word-break: keep-all;
 }
 
 /* 상단광고배너, 풋터 */
