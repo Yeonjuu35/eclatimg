@@ -19,6 +19,16 @@ line-height: normal;
  letter-spacing: 0.4px;
 }
 
+.sub_text204{
+    color: #333;
+    font-family: 'Pretendard';
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.4px;
+   }
+
 /* 베스트/리뷰 상품명 */
 .proNm_text{
  color: #333;
